@@ -1,0 +1,21 @@
+#connectwithme {
+	overflow: auto;
+	clear: both;
+	box-sizing: border-box;
+	position: relative; 
+	bottom: 448px; 
+	right: -465px;
+	background-color: #ffffff;
+	width: 30%;
+	color: #4aaaa5;
+	padding: 5px; 
+	text-align: center;
+	font-size: 18px;
+}
+
+#letsgetsocial {
+	display: inline; 
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
