@@ -334,7 +334,7 @@ input[type=submit] {
 	#masthead {
 		clear: both;
 		position: relative;
-		width: 60%;
+		width: 70%;
 		margin: auto;
 	}
 	#logo {
@@ -353,7 +353,7 @@ input[type=submit] {
 
 	}
 	#main-container {
-		width: 60%;
+		width: 70%;
 		padding-top: 20px;
 
 	}
